@@ -39,7 +39,7 @@ export default function BigNav() {
     </Button>
     
    <Button style={{width: '125px', height: '35px'}} className='width: 200px, height: 300px'   appearance="transparent" icon={<TaskListSquareLtr24Regular /> }>
-       Preguntas más frecuentes
+       Faq
      </Button>
     
    <Button style={{width: '125px', height: '35px'}} className='width: 200px, height: 300px'   appearance="transparent" onClick={function(event){ setTheme(theme === 'light' ? 'dark' : 'light')}} icon={dark== 'show' ? <WeatherMoon24Filled /> : <WeatherSunny24Filled />}>
