@@ -3,7 +3,7 @@
   "name": "button-dark-mode",
   "version": "1.0.0",
   "bugs": {
-    "url": "https://github.com/Esquiafo/DarkMode/issues"
+    "url": "https://github.com/Ayrtongit/ReacTienda"
   },
   "scripts": {
     "dev": "next dev",
@@ -13,10 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Esquiafo/DarkMode.git"
+    "url": "git://github.com/Ayrtongit/Darkode.git"
   },
   "license": "MIT",
-  "homepage": "https://github.com/Esquiafo/DarkMode",
+  "homepage": "https://github.com/Ayrtongit/DarkMode",
   "dependencies": {
     "@fluentui/react-components": "^9.12.0",
     "@next/font": "13.1.5",
